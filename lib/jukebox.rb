@@ -1,4 +1,3 @@
-require_relative
 songs = [
   "Phoenix - 1901",
   "Tokyo Police Club - Wait Up",
@@ -72,5 +71,3 @@ def run(songs)
       help
     end
 end
-
-run()
